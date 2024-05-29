@@ -1,4 +1,4 @@
-# JS cheetsheet
+# JS шпаргалка
 
 ## Базований javascript 🍉
 
@@ -8,3 +8,7 @@
 [String methods](./my-website/docs/javascript-basic/methods-string.md)<br>
 [Array methods](./my-website/docs/javascript-basic/methods-array.md)<br>
 [Event loop](./my-website/docs/javascript-basic/eventloop.md)<br>
+
+## Website
+
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
