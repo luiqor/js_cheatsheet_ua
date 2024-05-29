@@ -1,7 +1,10 @@
 # JS cheetsheet
+
 ## Базований javascript 🍉
-[Errors](./cheetsheets/errors.md)<br>
-[Type Casting](./cheetsheets/type_casting.md)<br>
-[String methods](./cheetsheets/string_methods.md)<br>
-[Array methods](./cheetsheets/array_methods.md)<br>
-[Event loop](./cheetsheets/eventloop.md)<br>
+
+[Javascript](./my-website/docs/intro.md)<br>
+[Errors](./my-website/docs/javascript-basic/errors.md)<br>
+[Type Casting](./my-website/docs/javascript-basic/type-casting.md)<br>
+[String methods](./my-website/docs/javascript-basic/methods-string.md)<br>
+[Array methods](./my-website/docs/javascript-basic/methods-array.md)<br>
+[Event loop](./my-website/docs/javascript-basic/eventloop.md)<br>

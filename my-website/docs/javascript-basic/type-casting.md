@@ -1,7 +1,15 @@
+---
+title: type casting
+---
+
 # Перетворення типів
+
 / conversion / type casting
+
 ## Неявне перетворення (Implicit Conversion)
+
 ### Return falsy values:
+
 1. false
 2. 0
 3. null
